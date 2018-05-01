@@ -669,7 +669,7 @@ input:-webkit-autofill:focus {
 .gallery-slide .owl-controls {
     position: static;
     text-align: right;
-    padding-right: 80px;
+    padding-right: 0px;
 }
 
 .gallery-slide .owl-controls .owl-nav > div {
