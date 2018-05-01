@@ -426,8 +426,9 @@ input:-webkit-autofill:focus {
     width: 100%;
     /*--background: url('images/header-bg.jpg') no-repeat scroll center bottom / cover;--*/
     padding-top: 26vh;
+    padding-bottom: 20vh;
     color: #ffffff;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
 }
 
 .home-area .mobile-image {
